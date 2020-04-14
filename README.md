@@ -19,4 +19,5 @@ Learning React Router
 10. Nested Routes
     In any component, you can use Route component
 11. Use Redirect Component to custom redirect rules
-11. this.props.history.replace go to route path
+12. this.props.history.replace go to route path
+13. 404 case => <Route render={() => <h1>Not found</h1>} />
