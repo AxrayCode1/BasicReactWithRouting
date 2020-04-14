@@ -14,3 +14,9 @@ Learning React Router
    ex: 
        route  : Route path="/:id" exact component={FullPost} />
        get id : this.props.match.params.id
+8. Use Switch Components to load one route
+9. Use this.props.history.push go to route path
+10. Nested Routes
+    In any component, you can use Route component
+11. Use Redirect Component to custom redirect rules
+11. this.props.history.replace go to route path
