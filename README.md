@@ -21,3 +21,5 @@ Learning React Router
 11. Use Redirect Component to custom redirect rules
 12. this.props.history.replace go to route path
 13. 404 case => <Route render={() => <h1>Not found</h1>} />
+14. Lazy loading with async hoc
+15. index.html not in root folder, you need add basename in BrowserRouter
